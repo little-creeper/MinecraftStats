@@ -1,0 +1,11 @@
+
+/data
+/config
+/icons
+/raw
+/skins
+__pycache__
+*.log
+/*.json
+update.sh
+update.bat
